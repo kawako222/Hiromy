@@ -1,0 +1,73 @@
+/* Estilos del encabezado */
+#topping {
+    background-color: #f7b6c1;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  h1{
+    color: antiquewhite;
+    font-family: "Pacifico", cursive;
+    font-style: normal;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Estilos del cuerpo */
+  body {
+    background-color: #f0f0f0;
+    margin: 0;
+    font-family: 'Verdana', sans-serif;
+  }
+  
+  section {
+    color: #BB9AB1;
+    font-family: "Caveat", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  section:nth-child(even) {
+    background-color: BB9AB1;
+  }
+
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h2{
+    font-size: 3rem;
+  }
+  p{
+    font-size: 2rem;
+  }
+  li{
+    color: #BB9AB1;
+    font-family: "Caveat", system-ui;
+    font-style: normal;
+    font-size: 2rem;
+    padding: 10px;
+  }
+  footer{
+    color: #BB9AB1;
+    font-family: "Caveat", system-ui;
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
